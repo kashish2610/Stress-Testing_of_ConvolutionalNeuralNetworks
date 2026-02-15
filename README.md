@@ -204,7 +204,6 @@ This helps interpret CNN decisions and verify whether the network focuses on mea
 | Validation Accuracy | 92.08 % | 93.88 % |
 | Test Accuracy | 88.17 % | 93.70 % |
 | Convergence Speed | Medium | Faster |
-| Overfitting | Slight | Reduced |
 
 
 ## Learning Outcomes
